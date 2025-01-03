@@ -2,6 +2,8 @@
 
 A basic blackjack game created using HTML, CSS, and JavaScript. Players can play against the dealer, with the cards represented by numbers.
 
+![Logo](blackjack.png)
+
 ## Overview
 
 This is a simple implementation of the blackjack game. The game allows a player to play against the dealer with basic game logic and rules. Players start with an initial amount of $100 and can win or lose money based on their gameplay.
